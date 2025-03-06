@@ -1,7 +1,6 @@
 <x-app-layout>
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <!-- Financial Summary -->
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
                 <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg p-6">
                     <h3 class="text-lg font-semibold text-gray-900 mb-4">Remaining Income</h3>
@@ -37,7 +36,6 @@
                 </div>
             </div>
 
-            <!-- Expense Categories Chart -->
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg p-6 mb-6">
                 <h3 class="text-lg font-semibold text-gray-900 mb-4">Spending by Category</h3>
                 <div class="h-64">
@@ -65,7 +63,6 @@
                 </div>
             </div>
 
-            <!-- AI Suggestions -->
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg p-6">
                 <h3 class="text-lg font-semibold text-gray-900 mb-4">Financial Insights</h3>
                 <div class="space-y-4">
